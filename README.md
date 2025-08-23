@@ -7,7 +7,7 @@ Instructions:
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:22c55e&text=Vopesh%20Chandra&fontColor=facc1&fontAlign=50&fontAlignY=34&desc=Surveys%20Tech%20%7C%20Backend%20%7C%20APIs%20%7C%20AI%20%7C%20LLM&descAlign=50&descAlignY=65" alt="Vopesh Chandra" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:22c55e&text=Vopesh%20Chandra&fontColor=facc1&fontAlign=50&fontAlignY=34&desc=Survey%20Tech%20%7C%20Backend%20%7C%20APIs%20%7C%20AI%20%7C%20LLM&descAlign=50&descAlignY=65" alt="Vopesh Chandra" />
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@ Instructions:
 
 I am an **IT professional** With **12+ years of experience in the Market Research industry**, I bring a strong foundation in **Survey Programming and Data Analysis**. Over the years, I’ve mastered complex survey logic, automation workflows, and performance optimization using the **Decipher platform**.
 
-I’m known for solving complex problems and driving efficiency across cross-functional teams — from **survey programming and dashboarding** to **analytics and client delivery**. My technical expertise extends across **Python, JavaScript, HTML/CSS**, and **data visualization tools** like **Tableau, Excel, and Power BI**.
+I’m known for solving complex problems and driving efficiency across cross-functional teams from **survey programming and dashboarding** to **analytics and client delivery**. My technical expertise extends across **Python, JavaScript, HTML/CSS**, and **data visualization tools** like **Tableau, Excel, and Power BI**.
 
-Now, I’m channeling this experience into the **AI & software engineering world**, combining my background in **analytics and data science** with a deep curiosity for **Generative AI and modern software systems**. focused on **backend engineering, API design, and DevOps** — currently building modern applications with **Node.js, MongoDB/Postgres, Redis, RabbitMQ, and cloud platforms**. Alongside, I am **exploring AI/LLMs, Retrieval-Augmented Generation (RAG), and agentic systems** to create practical automation solutions.
+Now, I’m channeling this experience into the **AI & software engineering world**, combining my background in **analytics and data science** with a deep curiosity for **Generative AI and modern software systems**. focused on **backend engineering, API design, and DevOps**. currently building modern applications with **Node.js, MongoDB/Postgres, Redis, RabbitMQ, and cloud platforms**. Alongside, I am **exploring AI/LLMs, Retrieval-Augmented Generation (RAG), and agentic systems** to create practical automation solutions.
 
 ✨ **Mission:** Bridge traditional research expertise with next-gen AI-driven innovation.
 
@@ -93,7 +93,9 @@ Now, I’m channeling this experience into the **AI & software engineering world
   </a>
 </td>
 <td>
-  <!-- spare slot for next project -->
+  <a href="https://github.com/vopesh/Level-2-Consume-API---Pagination-Search-Filters-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vopesh&repo=Level-2-Consume-API---Pagination-Search-Filters-&theme=tokyonight&border_color=1f2937" alt="Level-2-Consume-API---Pagination-Search-Filters-" />
+  </a>
 </td>
 </tr>
 </table>
@@ -110,12 +112,18 @@ Now, I’m channeling this experience into the **AI & software engineering world
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=vopesh&theme=tokyonight&hide_total_contributions=true&hide_longest_streak=false&hide_current_streak=false&hide_border=false&border=1f2937" alt="streak"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vopesh&style=flat&color=0ea5e9" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/vopesh?style=flat&color=22c55e" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/vopesh?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=f59e0b" alt="stars"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-21-22c55e?style=flat&logo=github" alt="total contributions"/>
+</p>
 
 ---
 
 ## ✍️ Interest
 
-> Building API-first, secure, and scalable apps. Open to collaboration on backend and DevOps projects. believe in learning by doing.
+> Building API-first, secure, and scalable apps. Open to collaboration on backend and DevOps projects. Believe in learning by doing.
 
 ---
 
@@ -123,5 +131,3 @@ Now, I’m channeling this experience into the **AI & software engineering world
 
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/vopeshchandra
 - 💻 **GitHub:** https://github.com/vopesh
-
----
