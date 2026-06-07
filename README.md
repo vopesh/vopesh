@@ -31,7 +31,7 @@ I am an **IT professional** With **12+ years of experience in the Market Researc
 
 I’m known for solving complex problems and driving efficiency across cross-functional teams from **survey programming and dashboarding** to **analytics and client delivery**. My technical expertise extends across **Python, JavaScript, HTML/CSS**, and **data visualization tools** like **Tableau, Excel, and Power BI**.
 
-Now, I’m channeling this experience into the **AI & software engineering world**, combining my background in **analytics and data science** with a deep curiosity for **Generative AI and modern software systems**. focused on **backend engineering, API design, and DevOps**. currently building modern applications with **Node.js, MongoDB/Postgres, Redis, RabbitMQ, and cloud platforms**. Alongside, I am **exploring AI/LLMs, Retrieval-Augmented Generation (RAG), and agentic systems** to create practical automation solutions.
+Now, I’m channeling this experience into the **AI & software engineering world**, combining my background in **analytics and data science** with a deep curiosity for **Generative AI and modern software systems**. focused on **backend engineering, API design, and DevOps**. currently building modern applications with **Postgres, FastAPI, Redis and cloud platforms**. Alongside, I am **exploring AI/LLMs, Retrieval-Augmented Generation (RAG), and agentic systems** to create practical automation solutions.
 
 ✨ **Mission:** Bridge traditional research expertise with next-gen AI-driven innovation.
 
